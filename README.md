@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujan-here" alt="srujan-here" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/srujan_here_2" target="blank"><img src="https://img.shields.io/twitter/follow/srujan_here_2?logo=twitter&style=for-the-badge" alt="srujan_here_2" /></a> </p>
+<p align="left"> <a href="https://twitter.com/This_IsSrujan" target="blank"><img src="https://img.shields.io/twitter/follow/This_IsSrujan?logo=twitter&style=for-the-badge" alt="This_IsSrujan" /></a> </p>
 
 - 🌱 I’m currently learning **Backend development and data science**
 
