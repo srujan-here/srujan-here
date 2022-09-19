@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/This_IsSrujan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="srujan_here_2" height="30" width="40" /></a>
+<a href="https://twitter.com/This_IsSrujan" target="_blank"><img align="center" src="twitter.png" alt="srujan_here_2" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/putta-srujan-05a173205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/putta-srujan-05a173205/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/putta.srujan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/putta.srujan.5" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/srujan_here_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/srujan_here_/" height="30" width="40" /></a>
