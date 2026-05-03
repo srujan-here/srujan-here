@@ -46,17 +46,17 @@ I'm most at home where backend reliability meets AI ergonomics: webhook architec
 
 ### 🧰 Tech I reach for
 
-**Daily:** TypeScript · NestJS · React · MongoDB · Node.js · Redis · Docker
-**LLM / AI:** Claude API · MCP · Llama 2 (prod) · prompt eval pipelines · agent loops
-**Comfortable in:** Next.js · PostgreSQL · AWS · GCP · Python · Jest / Cypress
+- **Daily** — TypeScript · NestJS · React · MongoDB · Node.js · Redis · Docker
+- **LLM / AI** — Claude API · MCP · Llama 2 (prod) · prompt eval pipelines · agent loops
+- **Comfortable in** — Next.js · PostgreSQL · AWS · GCP · Python · Jest / Cypress
 
 ---
 
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srujan-here&show_icons=true&hide_border=true&hide=issues&theme=transparent" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan-here&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=srujan-here&show_icons=true&hide_border=true&hide=issues&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan-here&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" height="160" />
 </p>
 
 ---
