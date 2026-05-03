@@ -1,38 +1,68 @@
-<h1 align="center">Hi 👋, I'm Srujan</h1>
-<h3 align="center">A Passionate full stack developer and Programmer from India</h3>
-<center><img src="https://institute.careerguide.com/wp-content/uploads/2020/09/d9e204421993bf70b7bd72bbebadf0ed.gif"  alt="banner" width="700" height="200"></center>
+<h1 align="center">Hi, I'm Srujan 👋</h1>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srujan-here&label=Profile%20views&color=0e75b6&style=flat" alt="srujan-here" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srujan-here" alt="srujan-here" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/This_IsSrujan" target="blank"><img src="https://img.shields.io/twitter/follow/This_IsSrujan?logo=twitter&style=for-the-badge" alt="This_IsSrujan" /></a> </p>
-
-- 🌱 I’m currently learning **Backend development and data science**
-
-- 📫 How to reach me **puttasrujan1212@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1wQmmqAskbI07OuEjm2oyVTOmPHUKBNwH/view?usp=sharing](https://drive.google.com/file/d/1wQmmqAskbI07OuEjm2oyVTOmPHUKBNwH/view?usp=sharing)
-
-- ⚡ Fun fact **I think I am funny sometimes XD**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/This_IsSrujan" target="_blank"><img align="center" src="twitter.png" alt="srujan_here_2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/putta-srujan-05a173205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/putta-srujan-05a173205/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/putta.srujan.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/putta.srujan.5" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/srujan_here_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/srujan_here_/" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/srujan_here" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="srujan_here" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/srujan1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="srujan1717" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/srujan1717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="srujan1717" height="30" width="40" /></a>
+<p align="center">
+  <b>AI Engineer building agentic developer tools.</b><br/>
+  Full-stack engineer @ <a href="https://shipsy.io">Shipsy</a> · Gurgaon, India
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/srujan-here/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:puttasrujan1212@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://twitter.com/This_IsSrujan"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srujan-here&show_icons=true&locale=en&layout=compact" alt="srujan-here" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srujan-here&show_icons=true&locale=en" alt="srujan-here" /></p>
+### About
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srujan-here&" alt="srujan-here" /></p>
+I ship production systems for **100+ enterprise clients** at Shipsy, where I work across the stack on **TypeScript, NestJS, React, and MongoDB**. Lately I've been going deep on **LLM tooling and coding agents** — the kind of infrastructure that makes other engineers faster.
+
+I'm most at home where backend reliability meets AI ergonomics: webhook architectures, MCP servers, retrieval over codebases, and agent loops that actually hold up under real workloads.
+
+**Currently:** open to **AI Engineer** roles at startups working on developer tools and coding agents.
+
+---
+
+### 🛠️ What I'm building
+
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[archaeologist-mcp](https://github.com/srujan-here/archaeologist-mcp)** | Time-aware code context (git blame + history) for AI coding agents — surfaces *why* code looks the way it does, not just what's there. | Python, MCP |
+| **[career-ops](https://github.com/srujan-here/career-ops)** | AI-powered job-search system built on Claude Code with skill modes and batch processing. | JavaScript, Claude API |
+| **[bolna-recruit-screen](https://github.com/srujan-here/bolna-recruit-screen)** | Voice-agent recruitment screening with a realtime dashboard. | Next.js 15, Supabase |
+| **[CardWise](https://cardwise-delta.vercel.app)** | Recommendation engine scoring spending profiles against 100+ credit cards — top-5 results in <2s, Lighthouse 95+. | React, TS, Node |
+| **[Flee Outpass Portal](https://outpass.iiitkottayam.ac.in)** | Biometric campus-access system live at IIIT Kottayam, serving 2,000+ students. | TS, React, Node, MongoDB |
+
+---
+
+### 📈 Recent impact at Shipsy
+
+- 🤖 Shipped an **LLM-driven auto-config bot** that compressed release cycles from **weeks → days**
+- ⚡ Built automation reducing manual ops by **90%** across 100+ enterprise accounts
+- 🔁 Re-architected webhook infrastructure → **60% fewer integration failures**, 99.9% sync reliability
+- 🔐 Delivered enterprise security features (RBAC / SSO / 2FA) with **zero post-launch incidents**
+
+---
+
+### 🧰 Tech I reach for
+
+**Daily:** TypeScript · NestJS · React · MongoDB · Node.js · Redis · Docker
+**LLM / AI:** Claude API · MCP · Llama 2 (prod) · prompt eval pipelines · agent loops
+**Comfortable in:** Next.js · PostgreSQL · AWS · GCP · Python · Jest / Cypress
+
+---
+
+### 📊 GitHub at a glance
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=srujan-here&show_icons=true&hide_border=true&hide=issues&theme=transparent" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan-here&layout=compact&hide_border=true&theme=transparent&langs_count=6" height="160" />
+</p>
+
+---
+
+### 📬 Get in touch
+
+If you're building developer tools, coding agents, or LLM infrastructure — I'd love to chat.
+
+📧 **puttasrujan1212@gmail.com** · 💼 **[LinkedIn](https://www.linkedin.com/in/srujan-here/)**
