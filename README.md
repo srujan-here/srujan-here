@@ -55,9 +55,13 @@ I'm most at home where backend reliability meets AI ergonomics: webhook architec
 ### 📊 GitHub at a glance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=srujan-here&show_icons=true&hide_border=true&hide=issues&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srujan-here&layout=compact&hide_border=true&langs_count=6&bg_color=00000000&title_color=58a6ff&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=srujan-here&hide_border=true&background=00000000&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=c9d1d9&dates=8b949e" height="180" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=srujan-here&theme=github-compact&hide_border=true&bg_color=00000000&color=58a6ff&line=58a6ff&point=ffffff&area=true&area_color=58a6ff" />
+</p>
+
 
 ---
 
